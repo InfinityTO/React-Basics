@@ -6,3 +6,9 @@ Props are a way to pass data from one component to another in React. They are im
 - Props are `read-only`: They cannot be changed by the child component.
 - Props allow us to create `dynamic` content in our react app.
 - Every component can access the props passed to it.
+
+## 2. Data Flow Between Two Components
+    
+When two components communicate with each other, the one sending the props data is known as `Parent Component` and the one receiving the props data is called `Child Component` 
+    
+This parent-child relationship allows parent to pass down data to child components using props.
