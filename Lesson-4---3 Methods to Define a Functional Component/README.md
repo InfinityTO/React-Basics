@@ -18,3 +18,5 @@ function Nav (props) {
 	)
 }
 ```
+
+## 2. Function Expression
