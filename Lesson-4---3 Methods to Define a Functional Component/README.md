@@ -20,7 +20,7 @@ function Nav (props) {
 ```
 
 ## 2. Function Expression
-
+We will start tomorrow
 
 
 ## 3. Arrow Function
