@@ -50,7 +50,7 @@ export default Welcome;
 ## 3. Anonymous Function (Nameless Function)
 This function does not have a name, so it's called an anonymous function. But is less commonly used in modern React.
 ### Example
-```
+```jsx
 const Welcome = function () {
   return <h1>Hello, Welcome to React!</h1>;
 };
