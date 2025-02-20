@@ -17,7 +17,7 @@ Let's dive into each method with simple examples.
 The most basic way to define a functional component is by using a regular function.
 
 ### Example:
-```
+```jsx
 function Welcome() {
   return <h1>Hello, Welcome to React!</h1>;
 }
