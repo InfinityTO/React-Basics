@@ -34,7 +34,7 @@ export default Welcome;
 A more modern way to define components is by using an arrow function.
 
 ### Example:
-```
+```js
 const Welcome = () => {
   return <h1>Hello, Welcome to React!</h1>;
 };
