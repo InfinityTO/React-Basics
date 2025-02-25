@@ -17,7 +17,7 @@ Let's dive into each method with simple examples.
 The most basic way to define a functional component is by using a regular function.
 
 ### Example:
-```
+```jsx
 function Welcome() {
   return <h1>Hello, Welcome to React!</h1>;
 }
@@ -34,7 +34,7 @@ export default Welcome;
 A more modern way to define components is by using an arrow function.
 
 ### Example:
-```
+```jsx
 const Welcome = () => {
   return <h1>Hello, Welcome to React!</h1>;
 };
@@ -50,7 +50,7 @@ export default Welcome;
 ## 3. Anonymous Function (Nameless Function)
 This function does not have a name, so it's called an anonymous function. But is less commonly used in modern React.
 ### Example
-```
+```jsx
 const Welcome = function () {
   return <h1>Hello, Welcome to React!</h1>;
 };
