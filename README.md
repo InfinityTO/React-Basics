@@ -47,7 +47,7 @@ Each lesson is designed to be short, beginner-friendly, and practical. Click on 
 ## 🎯 How to Use This Repository
 1. Clone the repo:  
    ```sh
-   git clone https://github.com/InfinityTo/react-basics.git
+   git clone https://github.com/InfinityTO/React-Basics.git
    ```
 2. Open the lesson files in a Markdown viewer or directly in GitHub.
 
