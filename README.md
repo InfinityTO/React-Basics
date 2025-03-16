@@ -52,7 +52,7 @@ Each lesson is designed to be short, beginner-friendly, and practical. Click on 
 2. Open the lesson files in a Markdown viewer or directly in GitHub.
 
 ## ⭐ Contribute & Support
-If you find this helpful, **star the repo** ⭐ and share it with others! Feel free to contribute by improving lessons or suggesting new topics. 💡
+If you find this helpful, **star the repo** ⭐ and share it with others!! Feel free to contribute by improving lessons or suggesting new topics. 💡
 
 ---
 📌 **Happy Coding! 🚀**
